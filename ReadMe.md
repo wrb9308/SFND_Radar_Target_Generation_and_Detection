@@ -148,7 +148,7 @@ figure ('Name','Range and Speed From FFT2')
 surf(doppler_axis,range_axis,RDM);
 ```
 * Simulation Result
-![CFAR](result\2DFFT.jpg)
+![2DFFT](2DFFT.jpg)
 
 #### 7. CFAR implementation
 * Slide Window through the complete Range Doppler Map
@@ -209,5 +209,5 @@ figure,surf(doppler_axis,range_axis,CFAR_sig);
 colorbar;
 ```
 * Simulation Result
-![CFAR](result\CFAR.jpg)
+![CFAR](CFAR.jpg)
 
